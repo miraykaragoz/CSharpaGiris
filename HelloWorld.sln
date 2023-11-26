@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld2", "HelloWorld2\HelloWorld2.csproj", "{27165A5C-729A-4509-A8D4-AEF051A53EC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriTipleri", "VeriTipleri\VeriTipleri.csproj", "{0F6B6EE5-7EEB-46E2-9E73-62E1BA4E29B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{27165A5C-729A-4509-A8D4-AEF051A53EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27165A5C-729A-4509-A8D4-AEF051A53EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27165A5C-729A-4509-A8D4-AEF051A53EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F6B6EE5-7EEB-46E2-9E73-62E1BA4E29B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6B6EE5-7EEB-46E2-9E73-62E1BA4E29B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6B6EE5-7EEB-46E2-9E73-62E1BA4E29B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6B6EE5-7EEB-46E2-9E73-62E1BA4E29B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
