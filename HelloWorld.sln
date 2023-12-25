@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{B30151A1-4900-47D9-8203-12C716B9B10D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{B30151A1-4900-47D9-8203-12C716B9B10D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld2", "HelloWorld2\HelloWorld2.csproj", "{27165A5C-729A-4509-A8D4-AEF051A53EC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld2", "HelloWorld2\HelloWorld2.csproj", "{27165A5C-729A-4509-A8D4-AEF051A53EC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriTipleri", "VeriTipleri\VeriTipleri.csproj", "{0F6B6EE5-7EEB-46E2-9E73-62E1BA4E29B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VeriTipleri", "VeriTipleri\VeriTipleri.csproj", "{0F6B6EE5-7EEB-46E2-9E73-62E1BA4E29B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADONET_Giris", "ADONET_Giris\ADONET_Giris.csproj", "{9160B620-3AF8-45BA-AFB4-206557744F7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{0F6B6EE5-7EEB-46E2-9E73-62E1BA4E29B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F6B6EE5-7EEB-46E2-9E73-62E1BA4E29B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F6B6EE5-7EEB-46E2-9E73-62E1BA4E29B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9160B620-3AF8-45BA-AFB4-206557744F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9160B620-3AF8-45BA-AFB4-206557744F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9160B620-3AF8-45BA-AFB4-206557744F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9160B620-3AF8-45BA-AFB4-206557744F7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
